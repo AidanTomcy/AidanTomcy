@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AidanTomcy
+- 👀 I’m interested in Web Development
+- 🔭 I’m currently working on the [Tresorita Website](https://github.com/tresorita/tresorita-website)
+- 🌱 I’m currently learning Linux and Python
+- 👯 I’m looking to collaborate on Django and Flask projects
+- ⚡ Fun fact: I hate Golang and Java
