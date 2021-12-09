@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Django and Flask projects
 - ⚡ Fun fact: I hate Golang and Java
 
-![Aidan's github stats](https://github-readme-stats.vercel.app/api?username=aidantomcy&theme=tokyonight&show_icons=true)
+![Aidan's github stats](https://github-readme-stats.vercel.app/api?username=aidantomcy&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidantomcy&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidantomcy&layout=compact)
