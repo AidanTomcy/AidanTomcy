@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AidanTomcy
 - 👀 I’m interested in Web Development
-- 🔭 I’m currently working on the [Tresorita Website](https://github.com/aidantomcy/tresorita-website) & [Saints for Us](https://github.com/aidantomcy/saintsforus)
+- 🔭 I’m currently working on [PyAutoRun](https://github.com/aidantomcy/PyAutoRun) & [Saints for Us](https://github.com/aidantomcy/saintsforus)
 - 🌱 I’m currently learning Linux and PHP
 - 👯 I’m looking to collaborate on PHP projects
 - ⚡ Fun fact: I hate Golang and Java
