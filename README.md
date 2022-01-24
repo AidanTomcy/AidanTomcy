@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [PyAutoRun](https://github.com/aidantomcy/PyAutoRun) & [Saints for Us](https://github.com/aidantomcy/saintsforus)
 - 🌱 I’m currently learning Linux and PHP
 - 👯 I’m looking to collaborate on PHP projects
-- ⚡ Fun fact: I hate Golang and Java
+- ⚡ Fun fact: VS Code is my Weapon of choice
 
 ![Aidan's github stats](https://github-readme-stats.vercel.app/api?username=aidantomcy&theme=tokyonight&show_icons=true)
 
