@@ -1,7 +1,7 @@
 -   👋 Hi, I’m @AidanTomcy
 -   👀 I’m interested in Web Development
 -   🔭 I’m currently working on [PyAutoRun](https://github.com/aidantomcy/PyAutoRun) & [Saints for Us](https://github.com/aidantomcy/saintsforus)
--   🌱 I’m currently learning Linux and PHP
+-   🌱 I’m currently learning React and Next.js
 -   👯 I’m looking to collaborate on PHP projects
 -   ⚡ Fun fact: VS Code is my Weapon of choice
 
