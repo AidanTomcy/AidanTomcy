@@ -1,9 +1,9 @@
 -   👋 Hi, I’m @AidanTomcy
 -   👀 I’m interested in Web Development
--   🔭 I’m currently working on [PyAutoRun](https://github.com/aidantomcy/PyAutoRun) & [Saints for Us](https://github.com/aidantomcy/saintsforus)
--   🌱 I’m currently learning React and Next.js
--   👯 I’m looking to collaborate on PHP projects
--   ⚡ Fun fact: VS Code is my Weapon of choice
+-   🔭 I’m currently working on [My Portfolio website](https://github.com/aidantomcy/aidantomcy.github.io) & [PyMon](https://github.com/aidantomcy/pymon)
+-   🌱 I’m currently learning Rust
+-   👯 I’m looking to collaborate on TypeScript and Rust projects
+-   ⚡ Vim is my favorite text editor
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidantomcy&theme=tokyonight&layout=compact">
